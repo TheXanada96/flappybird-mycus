@@ -9,7 +9,7 @@ public class uccello : MonoBehaviour
     public GameObject restart;
     Rigidbody2D oggetto; // dichiaro una variabile rigidbody che gestisce la fisica del personaggio
     public AudioClip[] clips; // dichiaro un array audio 
-    AudioSource b; // dichiato
+    AudioSource b; 
     
     void Start()
     {
